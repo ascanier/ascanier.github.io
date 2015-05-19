@@ -1,10 +1,10 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "ascanier",
+    "repositoryName": "ascanier.github.com",
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "ascanier"
   }
 }
